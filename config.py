@@ -1,1 +1,1 @@
-cohere_key = "YOUR_COHERE_KEY_HERE"
+cohere_key = "0R3fSW7IL0koQLCKlGH9CEmCoZ8JTG5k7IShT0Rq"
