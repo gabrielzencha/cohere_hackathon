@@ -1,0 +1,1 @@
+cohere_key = "YOUR_COHERE_KEY_HERE"
